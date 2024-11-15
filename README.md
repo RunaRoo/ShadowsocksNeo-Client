@@ -1,0 +1,1 @@
+Client for ShadowsocksNeo (https://github.com/RunaRoo/ShadowsocksNeo)

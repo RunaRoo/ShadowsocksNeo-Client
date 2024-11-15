@@ -1,0 +1,50 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShadowsocksNeoClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShadowsocksNeoClient_jar</output-path>
+    <root id="archive" name="ShadowsocksNeoClient.jar">
+      <element id="module-output" name="ShadowsocksNeoClient" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/guava-33.3.1-jre.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/slf4j-api-2.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-cli-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/logback-core-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/bcprov-lts8on-2.73.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/logback-classic-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/osgi-over-slf4j-2.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-all-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-codec-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-buffer-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-common-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-handler-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-resolver-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-codec-dns-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-codec-xml-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-transport-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-codec-http-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-codec-mqtt-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-codec-smtp-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-codec-http2-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-codec-redis-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-codec-socks-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-codec-stomp-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-resolver-dns-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-codec-haproxy-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-handler-proxy-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-transport-udt-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-codec-memcache-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-transport-rxtx-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-transport-sctp-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-handler-ssl-ocsp-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-transport-classes-epoll-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-transport-classes-kqueue-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-resolver-dns-classes-macos-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-transport-native-unix-common-4.1.114.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-transport-native-kqueue-4.1.114.Final-osx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-transport-native-epoll-4.1.114.Final-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-resolver-dns-native-macos-4.1.114.Final-osx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-transport-native-epoll-4.1.114.Final-linux-riscv64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-transport-native-kqueue-4.1.114.Final-osx-aarch_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-transport-native-epoll-4.1.114.Final-linux-aarch_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty/netty-resolver-dns-native-macos-4.1.114.Final-osx-aarch_64.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
